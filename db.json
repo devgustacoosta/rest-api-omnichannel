@@ -2,12 +2,132 @@
   "produtos": [
     {
       "id": "1",
-      "nome": "Camiseta",
-      "imagem": "img.com",
-      "valor": "R$20,00"
+      "nome": "Camiseta Branca Básica",
+      "imagem": "https://images.unsplash.com/photo-1618354691466-abc853a7d7de",
+      "valor": "R$39,90"
+    },
+    {
+      "id": "2",
+      "nome": "Calça Jeans Masculina",
+      "imagem": "https://images.unsplash.com/photo-1603252110483-7d5dfae4b95e",
+      "valor": "R$119,90"
+    },
+    {
+      "id": "3",
+      "nome": "Vestido Floral Feminino",
+      "imagem": "https://images.unsplash.com/photo-1568254183919-78a4f43e904f",
+      "valor": "R$89,90"
+    },
+    {
+      "id": "4",
+      "nome": "Tênis Esportivo Branco",
+      "imagem": "https://images.unsplash.com/photo-1587049352859-0873a0d9c1aa",
+      "valor": "R$199,00"
+    },
+    {
+      "id": "5",
+      "nome": "Mochila Casual Preta",
+      "imagem": "https://images.unsplash.com/photo-1585386959984-a415522de418",
+      "valor": "R$149,90"
+    },
+    {
+      "id": "6",
+      "nome": "Camisa Social Azul Claro",
+      "imagem": "https://images.unsplash.com/photo-1602810311414-61b2b102f39f",
+      "valor": "R$89,90"
+    },
+    {
+      "id": "7",
+      "nome": "Jaqueta de Couro Sintético",
+      "imagem": "https://images.unsplash.com/photo-1612462402841-7fb22bca5614",
+      "valor": "R$249,90"
+    },
+    {
+      "id": "8",
+      "nome": "Boné Estiloso Cinza",
+      "imagem": "https://images.unsplash.com/photo-1582738415962-20bcb9d6a5d3",
+      "valor": "R$49,90"
+    },
+    {
+      "id": "9",
+      "nome": "Óculos de Sol Aviador",
+      "imagem": "https://images.unsplash.com/photo-1520975922139-b114c9f7f94e",
+      "valor": "R$79,90"
+    },
+    {
+      "id": "10",
+      "nome": "Blusa de Moletom Unissex",
+      "imagem": "https://images.unsplash.com/photo-1602288637784-876a51b20b55",
+      "valor": "R$129,90"
+    },
+    {
+      "id": "11",
+      "nome": "Short Jeans Feminino",
+      "imagem": "https://images.unsplash.com/photo-1593032465175-7f2f9bfae2df",
+      "valor": "R$59,90"
+    },
+    {
+      "id": "12",
+      "nome": "Relógio Digital Masculino",
+      "imagem": "https://images.unsplash.com/photo-1604371684762-91b9a746ed67",
+      "valor": "R$159,00"
+    },
+    {
+      "id": "13",
+      "nome": "Bolsa Feminina Nude",
+      "imagem": "https://images.unsplash.com/photo-1584735174964-3ec0b3f7fd75",
+      "valor": "R$99,90"
+    },
+    {
+      "id": "14",
+      "nome": "Chinelo Slide Preto",
+      "imagem": "https://images.unsplash.com/photo-1593032457868-22dd37c0d47a",
+      "valor": "R$39,90"
+    },
+    {
+      "id": "15",
+      "nome": "Blazer Casual Masculino",
+      "imagem": "https://images.unsplash.com/photo-1629909614297-00c9c3ee07b6",
+      "valor": "R$189,90"
+    },
+    {
+      "id": "16",
+      "nome": "Saia Midi Estampada",
+      "imagem": "https://images.unsplash.com/photo-1621607511440-e7df0b44181f",
+      "valor": "R$79,90"
+    },
+    {
+      "id": "17",
+      "nome": "Tênis Corrida Feminino",
+      "imagem": "https://images.unsplash.com/photo-1582738415766-e5f04e7d4e42",
+      "valor": "R$189,00"
+    },
+    {
+      "id": "18",
+      "nome": "Camisa Polo Preta",
+      "imagem": "https://images.unsplash.com/photo-1571953876916-6c81b1959057",
+      "valor": "R$69,90"
+    },
+    {
+      "id": "19",
+      "nome": "Sandália Rasteira",
+      "imagem": "https://images.unsplash.com/photo-1625701684785-fb4e5e45f60c",
+      "valor": "R$49,90"
+    },
+    {
+      "id": "20",
+      "nome": "Jaqueta Jeans Oversized",
+      "imagem": "https://images.unsplash.com/photo-1602810312130-8f4c4fddcb5b",
+      "valor": "R$159,90"
     }
   ],
-  "login": [{ "id": "1", "email": "devgustacoosta@gmail.com", "senha": "123" }],
+  "login": [
+    {
+      "id": "1",
+      "email": "devgustacoosta@gmail.com",
+      "senha": "123"
+    }
+  ],
   "cadastro": [
     {
       "id": "1",
